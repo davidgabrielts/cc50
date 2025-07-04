@@ -7,5 +7,6 @@ int main(void)
     firstName = get_string("whats your first name ");
     lastName = get_string("whats your last name ");
     printf("Hello, %s %s\n", firstName, lastName);
+    printf("end");
     return 0;
 }
